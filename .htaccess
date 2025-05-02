@@ -1,0 +1,4 @@
+# .htaccess (не працює на GitHub Pages, демонстраційний файл)
+<Files "private.html">
+    Require all denied
+</Files>
