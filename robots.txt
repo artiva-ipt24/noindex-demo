@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /private.html
+Sitemap: https://artiva-ipt24.github.io/noindex-demo/sitemap.xml
