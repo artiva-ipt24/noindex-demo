@@ -12,5 +12,4 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <!-- private.html свідомо не включено, бо має бути невидимим для індексу -->
 </urlset>
